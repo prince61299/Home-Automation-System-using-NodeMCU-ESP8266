@@ -1,5 +1,6 @@
 # Home-Automation-System-using-NodeMCU-ESP8266
-Using this device we can control your home appliance using your  Smartphone &amp; also with Google Assistant &amp; Alexa 
+#Using this device we can control your home appliance using your  Smartphone &amp; also with Google Assistant &amp; Alexa 
+#Copywrite @Prince Kushwaha
 
 #include<ESP8266WiFi.h>
 #include<BlynkSimpleEsp8266.h>
